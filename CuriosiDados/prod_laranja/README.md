@@ -14,4 +14,4 @@ Araraquara é realmente a ‘Cidade da Laranja’?
 
 ## Visualizações
 
-![ranking_cidades.jpg](README%20a582fa8b5bee43978f9efd310428cde2/ranking_cidades.jpg)
+![ranking_cidades.jpg](ranking_cidades.jpg)
