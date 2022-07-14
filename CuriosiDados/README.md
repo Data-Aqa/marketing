@@ -10,7 +10,7 @@ O projeto foca na produção de stories interativos. Esta interação pode se da
 
 Como dito anteriormente, o objetivo do projeto é combinar o estudo com a produção de conteúdo para o grupo. Sendo assim, todo story produzido (a visualização, no caso) deve ser feito em um notebook que será colocado no GitHub do grupo.
 
-A produção de cada story passa, necessariamente, por 6 ****etapas:
+A produção de cada story passa, necessariamente, por ***6*** etapas:
 
 1. Idealização → Qual será a ‘curiosidade’?;
 2. Pesquisa → Quais dados serão necessários para construir a visualização?;
