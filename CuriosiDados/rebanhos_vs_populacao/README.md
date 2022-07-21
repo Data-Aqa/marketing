@@ -12,4 +12,4 @@ Qual estado brasileiro contém a maior razão cabeça de gado / pessoa?
 
 ## Visualizações
 
-![mapa_razao.jpg](README%205e8604b07b9f4c86b606e0650255d0e7/mapa_razao.jpg)
+![mapa_razao.jpg](mapa_razao.jpg)
